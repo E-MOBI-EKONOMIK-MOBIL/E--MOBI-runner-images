@@ -1,0 +1,19 @@
+name: E--MOBI-runner-images
+id: ari:cloud:compass:11ab7076-dcc6-4d87-985f-2a1bb24cf464:component/8a2a5123-d43d-43a3-9958-ae7ceeca7684/be3a2862-eddb-4ac4-9207-53295fa0686f
+description: GitHub E-MOBI Actions runner images
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/E-MOBI-EKONOMIK-MOBIL/E--MOBI-runner-images
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: NOUVEL EMPIRE D'HAYTI
+    type: user
+    value: null
